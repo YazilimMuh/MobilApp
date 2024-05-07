@@ -1,1 +1,2 @@
-Java android app
+Java android uygulamasıdır.
+
